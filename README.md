@@ -69,10 +69,15 @@ def data_path():
 -Be sure that all the files dowloaded are located in the same single file on your computer.
 -Then in your IDE, change your working directory and choose the Plotly_Dash_F1_App as your current working directory.
 ```
+
 You're now able to run the app.
 
-
 ## Time to run the app 
+```diff
++Download the entire repository zip file, just go to Code -> Download ZIP.
++Extract the Plotly_Dash_F1_App file in the location desired.
++Remember that you will need to set this file as your current working directory in your IDE.
+```
 
 To access to the application, open the 'index.py' file in your favorite IDE and simply run the whole section.
 
