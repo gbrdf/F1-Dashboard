@@ -71,7 +71,7 @@ You're now able to run the app.
 
 To access to the application, open the 'index.py' file in your favorite IDE and simply run the whole script.
 
-Then copy/paste ( with mouse ! using ctrl-c will stop running the application ) the http link provided into your web browser.
+Then copy/paste ( use your mouse ! using ctrl-c will stop running the application ) the http link provided into your web browser.
 
 You can also lauch the appication using the command prompt :
 
