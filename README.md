@@ -14,15 +14,15 @@ Repository containing all the ressources used to create a dashboard using Formul
 
 ## Motivations
 
-As a Formula One amator, I was interested in creating a simple dashboard to play with a little part of the huge amount of data the formula one api is providing. As part of my master 2's advanced programming course, I decided to construct this project by using mainly Dash  (and Plotly)  libraries that i've never usedbefore.
+As a Formula One amator, I was interested in creating a simple dashboard to play with a little part of the huge amount of data the formula one api is providing. As part of my master 2's advanced programming course, I decided to construct this project by using mainly Dash (and Plotly) libraries that I've never used before.
 
 I tried to implement some interesting graphs and features but I know that a lot of improvments are possible.
 
-NB : I got inspired a lot by the work made by  Christopher Jeon. You can find his work and his public statistics app about Formula One here : https://github.com/christopherjeon/F1STATS-public
+NB : I got inspired a lot by the work made by Christopher Jeon. You can find his work and his public statistics app about Formula One here : https://github.com/christopherjeon/F1STATS-public
 
 ## Setting everything up
 
-This project has been made under a Windows OS. For Linux / Mac User feel free to check by yourself the documentation related to your own explotation system.
+This project has been made under a Windows OS. For Linux and Mac Users feel free to check by yourself the documentation related to your own explotation system.
 Note that I cannot guarantee that the application works perfectly under other exploitation systems as it does under Windows.
 
 The whole application has been coded using python 3.8.5 so be sure to update your python version if you are using an older one.
@@ -42,6 +42,11 @@ Before runing the app you will have to install ( or atleast update ) all python'
 You will also need to set up your own path for the 'app' folder and for the 'data' folder.
 
 Simply open the 'path_.py' file in a text editor or your favorite IDE and replace the three dots bewteen quotation marks with your own path as follow : 
+
+```diff
+-You will also need to set up your own path for the 'app' folder and for the 'data' folder.
+-Simply open the 'path_.py' file in a text editor or your favorite IDE and replace the three dots bewteen quotation marks with your own path as follow : 
+```
 
 ```bash
 
@@ -69,9 +74,9 @@ You're now able to run the app.
 
 ## Time to run the app 
 
-To access to the application, open the 'index.py' file in your favorite IDE and simply run the whole script.
+To access to the application, open the 'index.py' file in your favorite IDE and simply run the whole section.
 
-Then copy/paste ( use your mouse ! using ctrl-c will stop running the application ) the http link provided into your web browser.
+Then copy/paste ( use your mouse ! using ctrl-c will stop running the application ) the http link that appears in your console into your web browser.
 
 You can also lauch the appication using the command prompt :
 
