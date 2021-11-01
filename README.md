@@ -45,7 +45,7 @@ Simply open the 'path_.py' file in a text editor or your favorite IDE and replac
 
 ```diff
 -You will also need to set up your own path for the 'app' folder and for the 'data' folder.
--Simply open the 'path_.py' file in a text editor or your favorite IDE and replace the three dots bewteen quotation marks with your own path as follow : 
+-Simply open the 'path_.py' file in a text editor or your favorite IDE and replace the three dots between quotation marks with your own path as follow : 
 ```
 
 ```bash
