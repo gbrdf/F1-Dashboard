@@ -48,7 +48,11 @@ def data_path():
 
 ```
 
-Last but not least, be sure that all the files dowloaded are located in the same single file on your computer, otherwise the application cannot be launched.
+-Last but not least, be sure that all the files dowloaded are located in the same single file on your computer, otherwise the application cannot be launched.
+-Then in your IDE, change your working directory and choose the Plotly_Dash_F1_App as your current working directory.
+
+You're now able to run the app.
+
 
 ## Time to run the app 
 
