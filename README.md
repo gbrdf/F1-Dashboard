@@ -6,7 +6,19 @@ Repository containing all the ressources used to create a dashboard using Formul
 
 ## Table of content
 
+  * [Motivation](#motivation)
+  * [Setting everything up](#setting-everything-aspect)
+  * [Requirements](#requirements)
+  * [Time to run the app](#time-to-run-the-app)
+
+
 ## Motivations
+
+As a Formula One amator, I was interested in creating a simple dashboard to play with a little part of the huge amount of data the formula one api is providing. As part of my master 2's advanced programming course, I decided to construct this project by using mainly Dash  (and Plotly)  libraries that i've never usedbefore.
+
+I tried to implement some interesting graphs and features but I know that a lot of improvments are possible.
+
+NB : I got inspired a lot by the work made by  Christopher Jeon. You can find his work and his public statistics app about Formula One here : https://github.com/christopherjeon/F1STATS-public
 
 ## Setting everything up
 
@@ -48,8 +60,8 @@ def data_path():
 
 ```
 ```diff
-- BE CAREFUL :
--Last but not least, be sure that all the files dowloaded are located in the same single file on your computer.
+-BE CAREFUL :
+-Be sure that all the files dowloaded are located in the same single file on your computer.
 -Then in your IDE, change your working directory and choose the Plotly_Dash_F1_App as your current working directory.
 ```
 You're now able to run the app.
