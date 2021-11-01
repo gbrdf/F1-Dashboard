@@ -1,0 +1,32 @@
+Python 3.8.5
+
+Make sure to install all the following libraries :
+
+pip install ... :
+
+dash
+dash_core_components
+dash_html_components
+dash_bootstrap_components
+dash_dependencies
+
+fastf1
+
+io
+matplotlib
+numpy
+pandas 
+
+plotly
+plotly.express
+plotly.offline
+plotly.graph_objects
+
+tqdm
+
+urllib
+
+zipfile
+
+
+
