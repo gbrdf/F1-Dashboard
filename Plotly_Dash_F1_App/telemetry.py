@@ -131,7 +131,7 @@ for j in PS_nb_D2:
 
 nav = create_navbar()
 
-header = html.h5('this is a demo')
+header = html.H5('this is a demo')
 
 av_speed_plot = dcc.Graph(
                         id='avspeedplot',
